@@ -1,4 +1,4 @@
-# MEAN Baackend Application
+# MEAN Backend Application
 Welcome to the backend component of our application built on the MEAN (MongoDB, Express.js, AngularJS, Node.js) stack! This backend server forms the core of our system, providing essential functionalities and services to support the overall application architecture.
 
 In this backend, we harness the capabilities of Node.js and Express.js to create a robust and scalable server environment. MongoDB serves as our database solution, offering flexibility and scalability to handle various types of data.
